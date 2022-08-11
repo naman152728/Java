@@ -7,7 +7,7 @@ public class JavaMaths_Q1
             Scanner sc = new Scanner(System.in);
 
             float radius = sc.nextFloat();            
-            double pi = 3.14;
+            float pi = 3.14f;
 
             double area = pi * radius * radius;
             System.out.print("The Are of the Circle is: ");
